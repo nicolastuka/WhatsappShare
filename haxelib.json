@@ -1,10 +1,10 @@
 {
   "name": "whatsappshare",
-  "url": "http://www.milkogames.xyz",
+  "url": "https://github.com/nicolastuka/WhatsappShare",
   "license": "MIT",
   "tags": [],
-  "description": "Share App on Whatsapp.",
-  "version": "1.0.0",
+  "description": "Share text & image on Whatsapp. Only Android",
+  "version": "0.5.0",
   "releasenote": "",
   "contributors": ["nicolastuka"],
   "dependencies": {
