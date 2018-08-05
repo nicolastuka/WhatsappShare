@@ -44,3 +44,14 @@ class SimpleExampleImage
         }
     }
 }
+
+```
+
+
+### License
+
+The MIT License (MIT) - LICENSE.md
+
+Copyright © 2018 MilkoGames (http://www.milkogames.xyz)
+
+Author: Nicolás Capel
