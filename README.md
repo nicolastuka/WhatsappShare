@@ -5,7 +5,13 @@ Part of the code of this extension is based on the extension-share of fbricker.
 
 # Installation
 
-· haxelib install whatsappshare
+haxelib install whatsappshare
+
+### Configuration include.xml
+
+Include in your XML file project, this line:
+
+<haxelib name="whatsappshare" />
 
 ### Simple Example Use Extension (only text):
 
