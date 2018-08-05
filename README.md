@@ -52,6 +52,6 @@ class SimpleExampleImage
 
 The MIT License (MIT) - LICENSE.md
 
-Copyright © 2018 MilkoGames (http://www.milkogames.xyz)
+Copyright © 2018 MilköGames (http://www.milkogames.xyz)
 
 Author: Nicolás Capel
