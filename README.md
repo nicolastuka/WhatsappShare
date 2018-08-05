@@ -29,7 +29,8 @@ class SimpleExample
 
 ### Advanced Example Use Extension (text & image):
 
-```
+```haxe
+
 import extension.whatsappshare.WhatsappShare;
 
 class SimpleExampleImage
