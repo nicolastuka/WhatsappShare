@@ -5,6 +5,8 @@ Part of the code of this extension is based on the extension-share of fbricker.
 
 # Installation
 
+· haxelib install whatsappshare
+
 ### Simple Example Use Extension (only text):
 
 ```haxe
