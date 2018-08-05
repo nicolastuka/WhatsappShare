@@ -1,5 +1,7 @@
 # WhatsappShare
-Simple share text and image from Haxe to WhatsApp on ANDROID
+Simple share text and image from Haxe to WhatsApp on ANDROID.
+
+Part of the code of this extension is based on the extension-share of fbricker.
 
 # Installation
 
