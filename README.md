@@ -30,11 +30,11 @@ class SimpleExample
 ```
 import extension.whatsappshare.WhatsappShare;
 
-class SimpleExampleImagen
+class SimpleExampleImage
 {
     function AnyFuntion():Void
     {
-        if (WhatsappShare.SendMessage("Hello! it´s a message from WhatsApp", openfl.Assets.getBitmapData("assets/images/logo.png"))
+        if (WhatsappShare.SendMessage("Hello! it´s a message from WhatsApp", openfl.Assets.getBitmapData("assets/images/image.png"))
         {
             trace("It´s Working!");
         }
